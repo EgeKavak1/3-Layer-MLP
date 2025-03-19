@@ -26,7 +26,7 @@ Modelin performansı, doğruluk, kesinlik, geri çağırma ve F1 skoru gibi metr
 
 ## Tartışma (Discussion)
 
-Modelin performansı, farklı hiperparametre kombinasyonları ile test edilmiştir. En iyi sonuç, gizli katman boyutları ve eğitim adımları optimize edilerek elde edilmiştir. Modelin doğruluğu, banknotların sahte olup olmadığını belirlemede etkili olduğunu göstermektedir. Ancak, modelin daha fazla veri ile eğitilmesi ve farklı algoritmalarla karşılaştırılması, performansını daha da artırabilir.
+Modelin performansı, farklı hiperparametre kombinasyonları ile test edilmiştir. En iyi sonuç, gizli katman boyutları ve eğitim adımları optimize edilerek elde edilmiştir. Modelin doğruluğu, banknotların sahte olup olmadığını belirlemede etkili olduğunu göstermektedir. Yaşanan problemlerden ötürü modelin doğruluğunu artırmayı başaramadım.
 
 ## Kullanım (Usage)
 
